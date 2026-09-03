@@ -19,8 +19,8 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rorogka&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorogka&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=R0man-gka&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0man-gka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -35,12 +35,6 @@
 
 <br>
 
-## 📫 Связь
-
-
-
-<br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rorogka&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=R0man-gka&style=flat-square&color=blue" alt="profile views"/>
 </p>
