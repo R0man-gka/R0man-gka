@@ -1,7 +1,8 @@
-<h1 align="center">Привет, я Rorogka 👋</h1>
+<h1 align="center">Привет, я R0man-gka 👋</h1>
 
 <p align="center">
-  Пишу на C, C++ и Python — от низкоуровневых вещей до скриптов и автоматизации.
+  Пишу на C, C++ и Python — от низкоуровневых вещей до скриптов и автоматизации.<br>
+  Специализируюсь на операционных системах: работа с ядром, системное программирование, устройство ОС изнутри.
 </p>
 
 <br>
@@ -12,6 +13,9 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <br>
@@ -24,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rorogka&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0man-gka&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
