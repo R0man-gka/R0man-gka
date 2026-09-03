@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я R0man-gka 👋</h1>
+<h1 align="center">Привет, я Rorogka </h1>
 
 <p align="center">
   Пишу на C, C++ и Python — от низкоуровневых вещей до скриптов и автоматизации.<br>
